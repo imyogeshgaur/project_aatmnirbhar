@@ -1,0 +1,13 @@
+#gp:hover{
+    box-shadow:3px 14px 26px 5px rgba(12,51,245,1);
+}
+
+#fv:hover{
+    box-shadow:3px 14px 26px 5px rgba(245,8,8,1);
+}
+#f:hover{
+   box-shadow:3px 14px 26px 5px rgba(10,245,65,1);
+}
+#e:hover{
+  box-shadow:3px 14px 26px 5px rgba(245,214,12,1);
+}
